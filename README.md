@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>LiveScanAI - Real-time YouTube Stream Monitoring & AI Bot Detection</title>
-</head>
+
 <body>
     <h1>LiveScanAI</h1>
     <p><strong>Highlights:</strong> Real-time monitoring + AI detection</p>
