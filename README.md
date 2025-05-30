@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+    <title>LiveScanAI - Real-time YouTube Stream Monitoring & AI Bot Detection</title>
 </head>
 <body>
     <h1>LiveScanAI</h1>
@@ -16,6 +16,8 @@
         applies heuristics and AI-like phrase detection to identify suspicious chat behavior.
     </p>
     <p><em>Note: The AI detection part is still in beta.</em></p>
+    <h2>Important</h2>
+    <p><strong>You need a valid YouTube Data API v3 key to use this tool.</strong> Obtain one from the <a href="https://console.developers.google.com/apis/library/youtube.googleapis.com" target="_blank" rel="noopener noreferrer">Google Cloud Console - YouTube Data API v3</a> and set it in the <code>API_KEY</code> constant in the script.</p>
     <h2>Features</h2>
     <ul>
         <li>Fetch live stream details and concurrent viewers count</li>
